@@ -6,7 +6,7 @@ from discord import message
 
 client = discord.Client()
 
-token = 'OTY1NjgzNjY1NDc4NzYyNTQ3.Yl2w_w.OVBLB1cF3O0B3OvZdgvW66skkUk' #봇 토큰
+token = '(토큰)' #봇 토큰
 
 @client.event
 async def on_ready():
